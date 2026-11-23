@@ -11,5 +11,5 @@ def div(a, b):
 
 def div(a, b):
     if b == 0:
-        return "Khong chia duoc"
+       return "Loi: chia cho 0"
     return a / b
